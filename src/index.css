@@ -6,12 +6,13 @@
 
 body {
 	font-family: 'montserrat', sans-serif;
-	background:linear-gradient(to bottom right, red, blue);
+	background:linear-gradient(to bottom right, rgb(0, 98, 255), rgba(0, 0, 255, 0.479));
 	min-height:100vh;
 }
 
 header {
   padding: 50px 15px 0px;
+  text-transform: uppercase;
 }
 
 header h1 {
